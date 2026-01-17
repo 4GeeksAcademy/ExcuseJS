@@ -4,7 +4,7 @@ body{
     background-image: url("./assets/img/will.webp");
 }
 
-.w {
+.willemTop {
     width: 200px; 
     height: 200px;     
     overflow: hidden;   
@@ -14,12 +14,12 @@ body{
     box-shadow: inset;
 }
 
-.w img {
+.willemTop img {
     width: 100%;         
     height: auto;       
 }
 
-.u {
+.willemBottom {
     width: 200px;        
     height: 200px;       
     overflow: hidden;   
@@ -29,7 +29,7 @@ body{
     box-shadow: inset;
 }
 
-.u img {
-    width: 100%;       m b
+.willemBottom img {
+    width: 100%;
     height: auto;        
 }
